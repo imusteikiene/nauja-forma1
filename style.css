@@ -1,0 +1,154 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+input [type="tekst"] {
+    margin-top: 10px;
+    color: black;
+   
+
+
+    
+}
+.container {
+   
+    position: relative;
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: white; /* Balta fono spalva */
+    padding: 30px;
+}
+
+.container img {
+    width: 100%;
+    display: block;
+}
+
+form {
+   margin-top: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 50px;
+    
+}
+
+form input {
+    width: 100%;
+    padding: 15px;
+    margin: auto;
+    margin-top: 10px;
+    background: white;
+     width: 100%;
+    padding: 5px;
+    border: none;
+     
+}
+h1 {
+    text-align: center;
+}
+
+.eilute input[type="text"],
+.eilute input[type="email"],
+.eilute input[type="submit"]
+ {
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+   margin-top: 30px;
+    width: 50%;
+    padding: 10px;
+    border: none;
+    
+}
+        
+   label { 
+     margin: auto;
+   height: 20px;
+   text-align: start;
+   
+   }
+   textarea {
+     margin-top: 10px;
+    background: white;
+     width: 50%;
+    padding: 5px;
+    border: none;
+    border-style:inherit;
+    border-bottom: 1px solid black; 
+
+   }
+   .eilute1 { 
+    margin-top: 10px;
+    color: black;
+    background: white;
+     width: 100%;
+    padding: 5px;
+    border: none;
+   border-bottom: 1px solid black; 
+
+   }
+   .eilute1 {
+    
+    margin-top: 10px;
+    color: black;
+    background: white;
+     width: 100%;
+    padding: 5px;
+    border: none;
+   border-bottom: 1px solid black;
+     
+   }
+   .eilute1 {
+    margin-top: 10px;
+    color: black;
+    background: white;
+     width: 100%;
+    padding: 5px;
+    border: none;
+   border-bottom: 1px solid black;
+
+   }
+   .eilute1{
+    margin-top: 10px;
+    color: black;
+    background: white;
+     width: 100%;
+    padding: 5px;
+    border: none;
+   border-bottom: 1px solid black; 
+   
+}
+.eilute1  { margin-top: 10px;
+    color: black;
+    background: white;
+     width: 100%;
+    padding: 5px;
+    border: none;
+   border-bottom: 1px solid black; 
+   
+
+}
+   
+   
+.eilute input[type="submit"] 
+
+ { margin-top: 10px;
+     background-color: black; 
+    color: #fff; /* Teksto spalva (baltas) */
+    padding: 10px 15px; /* Apvadų dydis */
+    border: none; /* Pabraukimas */
+    border-radius: 5px; /* Kampo apvalinimas */
+    cursor: pointer; 
+    text-decoration: none;
+    
+   
+    
+ }
+    
+
+    
+
+    
